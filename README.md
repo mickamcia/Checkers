@@ -1,0 +1,2 @@
+# Checkers
+Basic checkers engine
