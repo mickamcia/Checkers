@@ -1,3 +1,3 @@
 # Checkers
-Basic checkers engine
+Basic checkers engine;
 does not work, work in progress
